@@ -74,7 +74,3 @@ jobs:
       - name: Build Site
         run: |
           bash tools/build.sh
-
-      - name: Test Site
-        run: |
-          bash tools/test.sh
