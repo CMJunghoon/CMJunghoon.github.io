@@ -56,3 +56,7 @@ $ rbenv versions
 ```shell
 $ rbenv uninstall 2.7.2  # 지정한 버전을 삭제 합니다.
 ```
+
+## 7. 참고 사이트
+
+[Mac에서 Gem::FilePermissionError 에러 발생시 해결 방법](https://jojoldu.tistory.com/288)
